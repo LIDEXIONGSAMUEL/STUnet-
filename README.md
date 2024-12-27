@@ -27,15 +27,15 @@
 
 ## nnunet 1.7.1 modification 
 - check the unzipped file named **nnUNet-1.7.1** download from **(https://github.com/uni-medical/STU-Net)**
-- 
+
 - check the file: **(C:\Users\admin\anaconda3\envs\**deeplearning**\Lib\site-packages\nnunet)**
-- 
+
 - copy file from **(STU-Net-main\nnUNet-1.7.1\nnunet\network_architecture)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\network_architecture)**
-- 
+
 - copy file from **(STU-Net-main\nnUNet-1.7.1\nnunet\training\network_training)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\training\network_training)**
-- 
+
 - copy python file from **(nnunet/run/run_finetuning.py)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\run)**
-- 
+
 
 
 
