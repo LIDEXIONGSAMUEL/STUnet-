@@ -13,12 +13,13 @@
 ## Edit the system enviroment variables
 - Variable:CUDA_PATH; Value:C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6
 - Variable:CUDA_PATH_V12_6; Value:C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6
+- 
 
 
 ## anaconda3
 - Environment--->create--->python 3.12.8
 ### dependencies
-- activate <your python>
+- activate **your python**
 - pip install batchgenerators (the cmd should show (deeplearning) C:\Users\admin>pip install batchgenerators:where (deeplearning is the name of python enviroment)
 - pip install torchinfo
 - pip install nibabel
@@ -38,23 +39,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-download the zipped pakaged of STU-Net form https://github.com/uni-medical/STU-Net/tree/main
-save in D:\deeplearning. and unzips it
-download
 
 
