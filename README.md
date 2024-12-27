@@ -3,8 +3,8 @@
 ## Enviroment
 -Windows 11
 ## channels
--anaconda navigator download:(https://www.anaconda.com/download)
--pycharm community editor:(https://www.jetbrains.com/pycharm/download/?section=windows)
+- anaconda navigator download:(https://www.anaconda.com/download)
+- pycharm community editor:(https://www.jetbrains.com/pycharm/download/?section=windows)
 
 
 
