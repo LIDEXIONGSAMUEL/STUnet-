@@ -1,8 +1,8 @@
-#STU-net 
+# STU-net 
 
-##Enviroment
+## Enviroment
 -Windows 11
-##channels
+## channels
 -anaconda navigator download:(https://www.anaconda.com/download)
 -pycharm community editor:(https://www.jetbrains.com/pycharm/download/?section=windows)
 
