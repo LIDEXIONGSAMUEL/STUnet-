@@ -75,6 +75,9 @@
 - ![image](https://github.com/user-attachments/assets/0b91be1e-41e3-4da3-93c1-9895effae367)
 - direct to the file where **direct_inference.py** exist
 - ![image](https://github.com/user-attachments/assets/c7b5d3be-00b5-48c5-8a04-f187e6fe5c98)
+- input (python direct_inference.py STUNetTrainer_base D:\deeplearning\STU-Net-main\direct_inference\example\Task032_AMOS22_Task1 D:\deeplearning\STU-Net-main\output_dir! )
+-- where STUNetTrainer_base is the trainer,
+-- 
 
 
 
