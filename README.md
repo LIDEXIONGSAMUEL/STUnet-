@@ -8,7 +8,7 @@
 - **anaconda** navigator download:(https://www.anaconda.com/download)
 - **pycharm community editor**:(https://www.jetbrains.com/pycharm/download/?section=windows)
 - **CUDA Toolkit 12.2 Downloads**(https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local)
-- **cuDNN**(https://developer.nvidia.com/cudnn-downloads?target_os=Windows&target_arch=x86_64&target_version=Agnostic&cuda_version=12)
+- **cuDNN**(https://developer.nvidia.com/cudnn-downloads?target_os=Windows&target_arch=x86_64&target_version=Agnostic&cuda_version=12) and installation see details inhttps://blog.csdn.net/qlkaicx/article/details/134577555
 
 
 ## Edit the system enviroment variables
