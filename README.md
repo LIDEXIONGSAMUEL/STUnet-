@@ -37,12 +37,12 @@
 - copy file from **(STU-Net-main\nnUNet-1.7.1\nnunet\network_architecture)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\network_architecture)**
 
 - copy file from **(STU-Net-main\nnUNet-1.7.1\nnunet\training\network_training)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\training\network_training)**
-
+  
+- copy python file from **(nnunet/run/run_finetuning.py)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\run)**
   ## Documentation
-- **set nnUNet_raw_data_base=D:\nnUNet_raw_data_base**
-- **set RESULTS_FOLDER=D:\RESULTS_FOLDER **
-![image](https://github.com/user-attachments/assets/c6446e3e-46f9-4a8e-961a-76d78c1c59a0)
-
+- cmd--->
+- **set nnUNet_raw_data_base=D:\nnUNet_raw_data_base** and **set RESULTS_FOLDER=D:\RESULTS_FOLDER** (it is the temporary method to set the file see details https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/setting_up_paths.md )
+  
 RESULTS_FOLDER/nnUNet/3d_fullres/ 
 ```
 - Task101_TotalSegmentator/
@@ -68,7 +68,7 @@ RESULTS_FOLDER/nnUNet/3d_fullres/
       - huge_ep4k.model.pkl
 ```
 
-- copy python file from **(nnunet/run/run_finetuning.py)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\run)**
+
 
 
 
