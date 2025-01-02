@@ -39,8 +39,8 @@
 - copy file from **(STU-Net-main\nnUNet-1.7.1\nnunet\training\network_training)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\training\network_training)**
 
   ## Documentation
-- set nnUNet_raw_data_base=D:\nnUNet_raw_data_base
-- set RESULTS_FOLDER=D:\RESULTS_FOLDER
+- **set nnUNet_raw_data_base=D:\nnUNet_raw_data_base**
+- **set RESULTS_FOLDER=D:\RESULTS_FOLDER **
 ![image](https://github.com/user-attachments/assets/c6446e3e-46f9-4a8e-961a-76d78c1c59a0)
 
 RESULTS_FOLDER/nnUNet/3d_fullres/ 
