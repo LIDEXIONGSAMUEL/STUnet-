@@ -41,9 +41,10 @@
 - copy python file from **(nnunet/run/run_finetuning.py)** to **(C:\Users\admin\anaconda3\envs\deeplearning\Lib\site-packages\nnunet\run)**
   ## Documentation
 - cmd--->
-- **set nnUNet_raw_data_base=D:\nnUNet_raw_data_base** and **set RESULTS_FOLDER=D:\RESULTS_FOLDER** (it is the temporary method to set the file see details https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/setting_up_paths.md )
+- **set nnUNet_raw_data_base=D:\nnUNet_raw_data_base** and **set RESULTS_FOLDER=D:\RESULTS_FOLDER** (it is the temporary method to set up the path see details https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/setting_up_paths.md )
   
-RESULTS_FOLDER/nnUNet/3d_fullres/ 
+- create the path in sequence like this :RESULTS_FOLDER/nnUNet/3d_fullres/
+
 ```
 - Task101_TotalSegmentator/
   - STUNetTrainer_small__nnUNetPlansv2.1/
@@ -68,7 +69,10 @@ RESULTS_FOLDER/nnUNet/3d_fullres/
       - huge_ep4k.model.pkl
 ```
 
+## direct inference for STU-net
 
+-activation the python 
+![image](https://github.com/user-attachments/assets/0b91be1e-41e3-4da3-93c1-9895effae367)
 
 
 
