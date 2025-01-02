@@ -71,9 +71,9 @@
 
 ## direct inference for STU-net
 
--activation the python 
+- activation the python 
 ![image](https://github.com/user-attachments/assets/0b91be1e-41e3-4da3-93c1-9895effae367)
--direct to the file where **direct_inference.py** exist ![image](https://github.com/user-attachments/assets/c7b5d3be-00b5-48c5-8a04-f187e6fe5c98)
+- direct to the file where **direct_inference.py** exist ![image](https://github.com/user-attachments/assets/c7b5d3be-00b5-48c5-8a04-f187e6fe5c98)
 
 
 
