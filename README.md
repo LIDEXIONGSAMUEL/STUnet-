@@ -15,7 +15,9 @@
 - add Variable:**CUDA_PATH**; Value:**C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6**
 - add Variable:**CUDA_PATH_V12_6**; Value:**C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6**
 - system variable--->Path(variable)--->edit:add **C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin** and **C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp**
-
+- add Variable:nnUNet_preprocessed; Value: D:\nnUNet_preprocessed
+- add Variable:nnUNet_raw; Value: D:\nnUNet_raw
+- add Variable:nnUNet_results: D:\nnUNet_results
 
 ## anaconda3
 - Environment--->create--->python 3.12.8
@@ -76,8 +78,9 @@
 - direct to the file where **direct_inference.py** exist
 - ![image](https://github.com/user-attachments/assets/c7b5d3be-00b5-48c5-8a04-f187e6fe5c98)
 - input (python direct_inference.py STUNetTrainer_base D:\deeplearning\STU-Net-main\direct_inference\example\Task032_AMOS22_Task1 D:\deeplearning\STU-Net-main\output_dir! )
--- where STUNetTrainer_base is the trainer,
--- 
+- where STUNetTrainer_base is the trainer,
+- D:\deeplearning\STU-Net-main\direct_inference\example\Task032_AMOS22_Task1 is the input file
+- D:\deeplearning\STU-Net-main\output_dir! is the output file.
 
 
 
